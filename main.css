@@ -1,0 +1,40 @@
+body {
+  font-family: arial;
+}
+header > h1 {
+  padding: 10px 0px 0px 10px;
+}
+header {
+  background-size: cover;
+  background-color: #000;
+  background-image: url(https://i.ytimg.com/vi/gmJgW-yMAIg/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-position: left center;
+  color:white;
+}
+li {display: inline;}
+
+nav {
+  color: white;
+  width: 100%;
+  text-align: center;
+  margin: auto;
+  display: inline-block;
+  list-style-type: none;
+background-color: rgba(0, 0, 0, 0.7);}
+}
+h2 {
+  display: inline-block;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+main {
+position: relative;
+margin: 0 25% 10% 25%;
+
+#container {
+  clear: right;
+  float: fixed right;
+}
+#contact {
+  margin: 0 25% 10% 25%;
+}
