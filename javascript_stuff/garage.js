@@ -37,7 +37,7 @@ var garage = {
 var Garage = function (cars) {
   this.cars = cars
 };
-
+//this is the prototype//
 var Car = function (make,model,color) {
   this.make = make;
   this.model = model;
